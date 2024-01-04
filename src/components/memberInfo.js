@@ -1,0 +1,55 @@
+const memberInfo = [
+  {
+    id: 1,
+    img: '/images/1.jpeg',
+    name: 'عبد الرحمن محمد',
+    position: 'محامي',
+    phone: '+966 12 345 678',
+    email: 'abdo@compnay.com',
+  },
+  {
+    id: 2,
+    img: '/images/2.jpeg',
+    name: 'فهد عبد الله',
+    position: 'أمن سيبراني',
+    phone: '+966 12 345 678',
+    email: 'fahed@company.com',
+  },
+  {
+    id: 3,
+    img: '/images/3.jpg',
+    name: 'سمية علي',
+    position: 'مديرة مالية',
+    phone: '+966 12 345 678',
+    email: 'somaih@gmail.com',
+    website: 'somaih.com',
+  },
+  {
+    id: 4,
+    img: '/images/4.jpeg',
+    name: 'جمال فارس',
+    position: 'رجل أعمال',
+    phone: '+966 12 345 678',
+    email: 'ahmed@gmail.com',
+  },
+  {
+    id: 5,
+    img: '/images/5.jpeg',
+    name: 'ليلى وليد',
+    position: 'كيميائي',
+    phone: '+966 12 345 678',
+    email: 'lila@gmail.com',
+    website: 'lila.com',
+  },
+  {
+    id: 6,
+    img: '/images/6.jpg',
+    name: 'أحمد جميل',
+    position: ' مدير تقني',
+    phone: '+966 12 345 678',
+    email: 'ahmed123@gmail.com',
+    website: 'ahmed.com',
+  },
+];
+
+export default memberInfo;
